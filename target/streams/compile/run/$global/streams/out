@@ -42,6 +42,4 @@
 [0m[[0mdebug[0m] [0m	/home/pandita/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.8.1.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread startio-akka.actor.default-dispatcher-2 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread startio-akka.actor.default-dispatcher-2 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread startio-scheduler-1 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread startio-akka.actor.default-dispatcher-4 to terminate.[0m
