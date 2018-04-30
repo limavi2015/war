@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mCoordinateTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mCoordinate object[0m[0m
+[0m[[0minfo[0m] [0m[32m- should validate a correct coordinate[0m[0m
+[0m[[0minfo[0m] [0m[32mit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate an error with a coordinate that has a wrong galaxy[0m[0m
+[0m[[0minfo[0m] [0m[32mit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate an error with a coordinate that has a wrong quadrant[0m[0m
+[0m[[0minfo[0m] [0m[32mit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate an error with a coordinate that has a wrong starsystem[0m[0m
+[0m[[0minfo[0m] [0m[32mit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate an error with a coordinate that has a wrong starSecondSystem[0m[0m
+[0m[[0minfo[0m] [0m[32mit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should generate an error with a coordinate that has a wrong planet[0m[0m

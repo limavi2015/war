@@ -1,0 +1,39 @@
+{
+	"info": {
+		"name": "Decrypt",
+		"_postman_id": "0f97e88b-c2f7-9179-85a4-9d55d4e95ad5",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "decrypt",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[\n\t{\n\t  \"galaxy\": \"2952410b\",\n\t  \"quadrant\":  \"0a94\",\n\t  \"starSystem\": \"446b\",\n\t  \"starSecondSystem\": \"8bcb\",\n\t  \"planet\":  \"448dc6e30b08\"\n\t},\n\t{\n\t  \"galaxy\": \"6f9c15fa\",\n\t  \"quadrant\":  \"ef51\",\n\t  \"starSystem\": \"4415\",\n\t  \"starSecondSystem\": \"afab\",\n\t  \"planet\":  \"36218d76c2d9\"\n\t},\n\t{\n\t  \"galaxy\": \"2ab81c9b\",\n\t  \"quadrant\":  \"1719\",\n\t  \"starSystem\": \"400c\",\n\t  \"starSecondSystem\": \"a676\",\n\t  \"planet\":  \"bdba976150eb\"\n\t}\n]"
+				},
+				"url": {
+					"raw": "http://localhost:8081/decrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8081",
+					"path": [
+						"decrypt"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

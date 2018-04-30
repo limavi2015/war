@@ -4,7 +4,7 @@
 		module="war$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20180429230510"
+		publication="20180429232111"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
