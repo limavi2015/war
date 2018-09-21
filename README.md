@@ -2,6 +2,10 @@
 # Phone Bill Calculation
 service to calculate the phone bill
 
+(#some-markdown-heading)
+
+
+
 -  ## How to run the service
 Clone the repository:
 ```
@@ -96,7 +100,7 @@ Note: The file must be in the root of the project and must be in 'txt' format.
 ```
 
 - ## Docker Version
-
+[create an anchor](#anchors-in-markdown)
 
 #### Prerequirements
 You must have docker installed. 
