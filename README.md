@@ -13,7 +13,7 @@ Run the service:
 > java -jar ./target/phonebill-0.0.1-SNAPSHOT.jar
 ```
 
-### Usage
+#### Usage
 ```
 URL: http://localhost:8080/bill/{{fileName}}
 Method: GET 
@@ -27,7 +27,7 @@ example url: http://localhost:8080/bill/prueba
 
 Note: The file must be in the root of the project and must be in 'txt' format.
 
-### Success Response:
+#### Success response:
 ```
 {
     "code": "Success",
@@ -82,7 +82,7 @@ Note: The file must be in the root of the project and must be in 'txt' format.
 }
 ```
 
-### Error Response:
+#### Error response:
 ```
 {
     "code": "Failed",
@@ -98,10 +98,10 @@ Note: The file must be in the root of the project and must be in 'txt' format.
 ## Docker Version
 
 
-### Prerequirements
+#### Prerequirements
 You must have docker installed. 
 
-### Steps
+#### Steps
 1. Clone the repository.
 ```
 > git clone https://github.com/ditoaforero/prueba-tecnica-stratio.git
