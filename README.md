@@ -108,7 +108,10 @@ You must have docker installed.
 ```
 2. Be located in the cloned repository folder `prueba-tecnica-stratio` of first step.
 
-3. Execute `docker-compose up -d` command.
+3. Execute the next command.
+```
+docker-compose up -d
+```
 This command will create a folder called "bills" where you must put the bills files in "txt" format to be processed.
 
 4. Finally, you can execute the service of these ways:
