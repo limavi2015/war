@@ -1,4 +1,4 @@
-# Phone bill calculation
+# Phone Bill Calculation
 service to calculate the phone bill
 
 ### How to run the service
@@ -25,11 +25,6 @@ parameters:
 example url: http://localhost:8080/bill/prueba 
 
 Note: The file must be in the root of the project and must be in 'txt' format.
-
-
-
-
-
 
 ### Success Response:
 ```
