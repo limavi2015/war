@@ -2,11 +2,12 @@
 # Phone Bill Calculation
 service to calculate the phone bill
 
-#anchors-in-markdown
+- [How to run the service](#How-to-run-the-service)
+- [Docker Version](#Docker-Version)
 
 
 
--  ## How to run the service
+## How to run the service
 Clone the repository:
 ```
 > git clone https://github.com/ditoaforero/prueba-tecnica-stratio.git
@@ -99,7 +100,7 @@ Note: The file must be in the root of the project and must be in 'txt' format.
 }
 ```
 
-- ## Docker Version
+## Docker Version
 [create an anchor](#anchors-in-markdown)
 
 #### Prerequirements
