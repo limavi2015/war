@@ -9,7 +9,7 @@ Clone the repository:
 Run the service:
 ```
 > mvn clean install 
-> java -jar ./target/
+> java -jar ./target/phonebill-0.0.1-SNAPSHOT.jar
 ```
 
 ### Usage
