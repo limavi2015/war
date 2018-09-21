@@ -2,7 +2,7 @@
 # Phone Bill Calculation
 service to calculate the phone bill
 
-(#anchors-in-markdown)
+#anchors-in-markdown
 
 
 
