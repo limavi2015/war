@@ -14,12 +14,14 @@ Run the service:
 
 ### Usage
 URL: http://localhost:8080/bill/{{fileName}}
+```
 Method: GET 
 parameters: 
     in: path
     name: fileName
     required: true
     description: Is the name of the file without extension.
+```
 
 Note: The file must be in the root of the project and must be in 'txt' format.
 
