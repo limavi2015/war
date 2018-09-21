@@ -99,7 +99,21 @@ Note: The file must be in the root of the project and must be in 'txt' format.
 
 
 ### Prerequirements
+You must have docker installed. 
 
+### Steps
+1. Clone the repository.
+```
+> git clone https://github.com/ditoaforero/prueba-tecnica-stratio.git
+```
+2. Be located in the cloned repository folder `prueba-tecnica-stratio` of first step.
+
+3. Execute `docker-compose up -d` command.
+This command will create a folder called "bills" where you must put the bills files in "txt" format to be processed.
+
+4. Finally, you can execute the service of these ways:
+   * http://localhost:8080/bill/{nombreBill} 
+   * http://127.0.0.1:8080/bill/{nombreBill}
 
 
 
