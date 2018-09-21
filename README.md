@@ -13,15 +13,23 @@ Run the service:
 ```
 
 ### Usage
+URL: http://localhost:8080/bill/{{fileName}}
+Method: GET 
+parameters: 
+    in: path
+    name: fileName
+    required: true
+    description: Is the name of the file without extension.
 
-GET http://localhost:8080/bill/{{fileName}}
+Note: The file must be in the root of the project and must be in 'txt' format.
 
-fileName: is the name of the file without extension
+fileName is the name of the file without extension. This file should be in 
+
 example url: http://localhost:8080/bill/prueba 
 
 
 
-Response successful:
+Success Response:
 {
     "code": "Success",
     "message": "Proceso exitoso",
@@ -75,7 +83,7 @@ Response successful:
 }
 
 
-Response failed:
+Error Response:
 ```
 {
     "code": "Failed",
