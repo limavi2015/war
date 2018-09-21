@@ -95,7 +95,7 @@ Note: The file must be in the root of the project and must be in 'txt' format.
 }
 ```
 
-## Docker Version
+- ## Docker Version
 
 
 #### Prerequirements
