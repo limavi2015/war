@@ -2,7 +2,7 @@
 # Phone Bill Calculation
 service to calculate the phone bill
 
-### How to run the service
+## How to run the service
 Clone the repository:
 ```
 > git clone https://github.com/ditoaforero/prueba-tecnica-stratio.git
