@@ -22,16 +22,16 @@ parameters:
     required: true
     description: Is the name of the file without extension.
 ```
+example url: http://localhost:8080/bill/prueba 
 
 Note: The file must be in the root of the project and must be in 'txt' format.
 
-fileName is the name of the file without extension. This file should be in 
-
-example url: http://localhost:8080/bill/prueba 
 
 
 
-Success Response:
+
+
+### Success Response:
 ```
 {
     "code": "Success",
@@ -86,7 +86,7 @@ Success Response:
 }
 ```
 
-Error Response:
+### Error Response:
 ```
 {
     "code": "Failed",
