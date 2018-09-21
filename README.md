@@ -13,8 +13,8 @@ Run the service:
 ```
 
 ### Usage
-URL: http://localhost:8080/bill/{{fileName}}
 ```
+URL: http://localhost:8080/bill/{{fileName}}
 Method: GET 
 parameters: 
     in: path
@@ -32,6 +32,7 @@ example url: http://localhost:8080/bill/prueba
 
 
 Success Response:
+```
 {
     "code": "Success",
     "message": "Proceso exitoso",
@@ -83,7 +84,7 @@ Success Response:
         ]
     }
 }
-
+```
 
 Error Response:
 ```
